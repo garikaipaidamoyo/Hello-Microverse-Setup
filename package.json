@@ -1,0 +1,27 @@
+{
+  "name": "hello-microverse-setup",
+  "version": "1.0.0",
+  "description": "- [📗 Table of Contents](#-table-of-contents)\r - [📖 Hello Microverse ](#-hello-microverse-)\r   - [🛠 Built With ](#-built-with-)\r     - [Tech Stack ](#tech-stack-)\r     - [Key Features ](#key-features-)\r   - [💻 Getting Started ](#-getting-started-)\r     - [Prerequisites](#prerequisites)\r     - [Setup](#setup)\r   - [👥 Authors ](#-authors-)\r   - [🔭 Future Features ](#-future-features-)\r   - [🤝 Contributing ](#-contributing-)\r   - [⭐️ Show your support ](#️-show-your-support-)\r   - [🙏 Acknowledgments ](#-acknowledgments-)\r   - [❓ FAQ (OPTIONAL) ](#-faq-optional-)\r   - [📝 License ](#-license-)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garikaipaidamoyo/Hello-Microverse-Setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garikaipaidamoyo/Hello-Microverse-Setup/issues"
+  },
+  "homepage": "https://github.com/garikaipaidamoyo/Hello-Microverse-Setup#readme",
+  "devDependencies": {
+    "hint": "^7.1.8",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
